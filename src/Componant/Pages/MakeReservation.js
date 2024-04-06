@@ -75,27 +75,27 @@ const MakeReservation = () => {
         <div class="sm:col-span-3">
           <label for="first-name" class="block text-sm font-medium leading-6 text-gray-900">Name</label>
           <div class="mt-2">
-            <input type="text" name="name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
+            <input type="text" name="name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-0 px-2 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
           </div>
         </div>
 
         <div class="sm:col-span-3">
           <label for="last-name" class="block text-sm font-medium leading-6 text-gray-900">Email</label>
           <div class="mt-2">
-            <input type="email" name="email" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
+            <input type="email" name="email" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-0 px-2 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
           </div>
         </div>
         <div class="sm:col-span-3">
           <label for="first-name" class="block text-sm font-medium leading-6 text-gray-900">Contact Number</label>
           <div class="mt-2">
-            <input type="text" name="number" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
+            <input type="text" name="number" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-0 px-2 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
           </div>
         </div>
 
         <div class="sm:col-span-3">
           <label for="last-name" class="block text-sm font-medium leading-6 text-gray-900">Number of People</label>
           <div class="mt-2">
-            <input type="email" name="people" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
+            <input type="text" name="people" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-0 px-2 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" required/>
           </div>
         </div>
 
@@ -104,14 +104,14 @@ const MakeReservation = () => {
         <div class="col-span-full">
           <label for="street-address" class="block text-sm font-medium leading-6 text-gray-900">Date and Time</label>
           <div class="mt-2">
-            <input type="text" name="date" id="street-address" autocomplete="street-address" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+            <input type="text" name="date" id="street-address" autocomplete="street-address" class="block w-full rounded-md border-0 px-2 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
           </div>
         </div>
 
         <div class="col-span-full">
           <label for="street-address" class="block text-sm font-medium leading-6 text-gray-900">Special Request</label>
           <div class="mt-2">
-            <input type="text" name="request" id="street-address" autocomplete="street-address" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
+            <input type="text" name="request" id="street-address" autocomplete="street-address" class="block w-full rounded-md border-0 px-2 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"/>
           </div>
         </div>
         
