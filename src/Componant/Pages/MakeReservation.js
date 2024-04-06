@@ -34,7 +34,7 @@ const MakeReservation = () => {
     }
     
     console.log(emaildata);
-    fetch('https://wapparels-server.vercel.app/makereservation',{
+    fetch('https://summerland-server.vercel.app/makereservation',{
       method:'POST',
       headers:{
         'content-type':'application/json'
